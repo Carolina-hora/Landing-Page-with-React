@@ -4,7 +4,7 @@ export const Navbar = () => {
   return (
     <div className="container-fluid">
       <div className="row bg-dark">
-        <div className="col-sm-9 col-md-9 col-lg-9 mx-auto">
+        <div className="col-sm-10 col-md-10 col-lg-10 mx-auto">
           <nav className="navbar navbar-expand-lg bg-dark ">
             <a className="navbar-brand text-white" href="#">
               Start Bootstrap

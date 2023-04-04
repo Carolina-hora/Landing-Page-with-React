@@ -13,35 +13,38 @@ const Home = () => {
     <div>
       <Navbar />
       <Jumbotron />
-      <div className="col-sm-9 col-md-9 col-lg-9 mx-auto m-4 d-lg-flex">
+      
+      <div className="container">
+      <div className="row">
         <Cards
-          buttonLabel="Find More"
+          buttonLabel="Find Out More"
           buttonUrl="https://www.google.com/"
           imageUrl="https://picsum.photos/id/10/500/325"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           title="My title"
         />
         <Cards
-          buttonLabel="Find More"
+          buttonLabel="Find Out More"
           buttonUrl="https://www.google.com/"
           imageUrl="https://picsum.photos/id/10/500/325"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           title="My title"
         />
         <Cards
-          buttonLabel="Find More"
+          buttonLabel="Find Out More"
           buttonUrl="https://www.google.com/"
           imageUrl="https://picsum.photos/id/10/500/325"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           title="My title"
         />
         <Cards
-          buttonLabel="Find More"
+          buttonLabel="Find Out More"
           buttonUrl="https://www.google.com/"
           imageUrl="https://picsum.photos/id/10/500/325"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           title="My title"
         />
+      </div>
       </div>
       <Footer />
     </div>

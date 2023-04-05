@@ -5,7 +5,7 @@ export const Navbar = () => {
     <div className="container-fluid bg-dark">
       <div className="row">
         <div className="col-sm-10 col-md-10 col-lg-10 mx-auto">
-          <nav className="navbar navbar-expand-lg bg-dark ">
+          <nav className="navbar navbar-expand-lg">
             <a className="navbar-brand text-white" href="#">
               Start Bootstrap
             </a>

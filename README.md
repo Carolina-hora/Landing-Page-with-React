@@ -1,3 +1,5 @@
+This was a collaborative Project between Carolina-hora and CL4UD3PT, using react components to make a landing page.
+
 # Hello World with React boilerplate
 
 Start coding a react application

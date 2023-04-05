@@ -10,7 +10,7 @@ export const Navbar = () => {
               Start Bootstrap
             </a>
             <button
-              className="navbar-toggler bg-secondary"
+              className="navbar-toggler navbar-dark"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#navbarNav"
@@ -18,7 +18,7 @@ export const Navbar = () => {
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
-              <span className="navbar-toggler-icon"></span>
+              <span className="navbar-toggler-icon navbar-dark"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
               
